@@ -1,6 +1,8 @@
 # This github only for research purpose
 
 ## Python Library use
+- pytorch(torch)
+- numpy
 
 
 ## Software
@@ -8,5 +10,10 @@
 ## Equipment
 - Laptop 
 - R pi
+  
 ### Checklist
-- [ ] Example of Federating learning  
+- [x] Example of Federating learning
+- [ ] Showing that it using weight and pass to another machine to train
+- [ ] Centralised and decentralised
+
+### Use for link
