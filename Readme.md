@@ -9,4 +9,4 @@
 - Laptop 
 - R pi
 ### Checklist
-- [x] Example of Federating learning  
+- [] Example of Federating learning  
