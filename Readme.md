@@ -5,20 +5,13 @@
 - numpy
 
 
-## Software
-- Use Linux and Window
-## Equipment
-- Laptop 
-- R pi
-  
-### Checklist
-- [x] Example of Federating learning
-- [ ] Showing that it using weight and pass to another machine to train
-- [ ] Centralised and decentralised
+## rasberry pi Setup
+>sudo apt update
+>sudo apt upgrade
+### Network Configuration detail
+>ifconfig
+### Static IP Address
+Check dhcp sever status
+>sudo service dhcpcd status
 
-### Useful link
-- https://flower.dev/docs/framework/index.html
 
-### link which tested and is not working 
-- https://github.com/shashigharti/federated-learning-on-raspberry-pi
-- 
